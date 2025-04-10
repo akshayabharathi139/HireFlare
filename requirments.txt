@@ -1,0 +1,8 @@
+smtplib
+numpy
+openai
+langchain
+scikit-learn
+sentence-transformers
+streamlit
+PyPDF2
