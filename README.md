@@ -1,4 +1,4 @@
-## HireFlare
+![demo](https://github.com/user-attachments/assets/252178c5-1c50-4737-a472-ec61ed9bb4b8)## HireFlare
 ## ai resume shortlister 
 
 ## 📌 Overview
@@ -13,6 +13,10 @@
 -✅ Shortlists and displays top candidates with names, scores & emails\
 -✅ Option to email selected candidates about the next round
 -✅ Built with Streamlit for a simple and fast UI
+
+## Demo video 
+![Uploading demo.gif…]()
+
 
 
 ## 🚀 Technologies Used
